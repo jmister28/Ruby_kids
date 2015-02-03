@@ -1,4 +1,6 @@
-# RubyKid
+
+
+[![Build Status](https://travis-ci.org/jmister28/Ruby_kids.svg)](https://travis-ci.org/jmister28/Ruby_kids)# RubyKid
 
 TODO: Write a gem description
 
